@@ -27,6 +27,11 @@ gem install bundler
 bundle
 ```
 
+5. Once above steps are completed successfully, for serving locally run the following command on terminal:
+```bash
+bundle exec jekyll serve
+```
+
 ### File to be modified in the cloned Repo:
 
 1. `_config.yml`: 
