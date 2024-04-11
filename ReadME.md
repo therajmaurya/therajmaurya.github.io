@@ -63,4 +63,3 @@ bundle exec jekyll serve
 - You will need to create folder at root - by post category and sub-folder by post title - to store artifacts for posts, if you want to attach any files to a post.
 - You will also need to create folder at root - by page - to store aertifacts for pages, if you want to attach any files to a page.
 - Markdown files support raw HTML script. Ex: I have used HMTL embed tag to render PDF on my site.
-- My GitHub URL: https://github.com/therajmaurya/therajmaurya.github.io
