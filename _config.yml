@@ -58,7 +58,7 @@ plugins:
 author:
   name   : "Raj Kumar Maurya"
   avatar : "/assets/images/raj_headshot_photo.png"
-  bio    : "Senior Data Scientisit at Ernst & Young (GDS) <br><br> roficient in Generative AI, Natural Language Processing, Deep Learning, Machine Learning, Probabilistic ML, and Statistical Analysis & Modelling"
+  bio    : "Senior Data Scientist <br> Ernst & Young (GDS) <br><br> Proficient in Generative AI, Natural Language Processing, Deep Learning, Machine Learning, Probabilistic ML, and Statistical Analysis & Modelling"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
