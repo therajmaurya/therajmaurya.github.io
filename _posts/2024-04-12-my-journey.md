@@ -18,7 +18,7 @@ tags:
   - Inference
   - LLMOps
   - Optimisation 
-excerpt: Started with enthusiasm. Continued with passion. Propelled by love. [For AI]
+excerpt: Started with enthusiasm. Continued with passion. Propelled by love.
 # toc: true
 # toc_label: "Contents"
 # toc_icon: "cog"
