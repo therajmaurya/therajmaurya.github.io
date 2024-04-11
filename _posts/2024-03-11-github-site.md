@@ -14,7 +14,8 @@ toc_icon: "cog"
 ---
 
 
-### Steps to create GitHub Pages Site using [Jekyll & Minimal Mistakes](https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/):
+### Steps to create GitHub Pages Site 
+... using [Jekyll & Minimal Mistakes](https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/)
 
 1. Fork [this repository](https://github.com/therajmaurya/therajmaurya.github.io/fork): 
 ```
@@ -27,13 +28,11 @@ https://github.com/rbenv/rbenv
 ```
 
 3. Next run the command on terminal to install bundler:
-
 ```bash
 gem install bundler
 ```
 
 4. Change directory to the cloned repo and run below command on terminal:
-
 ```bash
 bundle
 ```
@@ -43,7 +42,7 @@ bundle
 bundle exec jekyll serve
 ```
 
-### File to be modified in the cloned Repo:
+### Files to be modified in the cloned Repo
 
 1. `_config.yml`: 
 - This file is used to setup project level information for the entire site like personal details, page settings, google analytics tracking, etc.
@@ -69,7 +68,7 @@ bundle exec jekyll serve
 5. `_includes/footer.html`:
 - This file needs to be changed if you want to update the footer details.
 
-### Note: 
+### Notes
 - You will need to create folder at root - by post category and sub-folder by post title - to store artifacts for posts, if you want to attach any files to a post.
 - You will also need to create folder at root - by page - to store aertifacts for pages, if you want to attach any files to a page.
 - Markdown files support raw HTML script. Ex: I have used HMTL embed tag to render PDF on my site.
